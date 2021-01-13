@@ -30,8 +30,11 @@
 ## بخش عمومی
 --------------
 [ارزیابی رزومه و انگیزه نامه](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/_General/_CV_CheckList_AR_3991.pdf)
+
 <br>
+
 [خلاصه ارزیابی و فعالیت های مشترک](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
+
 ## بخش دروس کارشناسی
 [ارزیابی درس روش پژوهش](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 

@@ -33,10 +33,10 @@
 
 <br>
 
-[خلاصه ارزیابی و فعالیت های مشترک](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
+[خلاصه ارزیابی و فعالیت های مشترک](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/_General/_GeneralSection_CheckList_AR_3991%20(1).pdf)
 
 ## بخش دروس کارشناسی
-[ارزیابی درس روش پژوهش](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+[ارزیابی درس روش پژوهش](https://github.com/Amirhossein-aref/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/ResearchAndPresentationMethods_CheckList_AR_3991%20(1).pdf)
 
 --------------
 ## روز و ساعت ارائه دروس
